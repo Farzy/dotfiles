@@ -12,6 +12,7 @@ There is no installation script yet. Just copy the dotfiles in you home director
    * Ryan Bates' [dotfiles](https://github.com/ryanb/dotfiles)
    * Mathias Bynes' [dotfiles](https://github.com/mathiasbynens/dotfiles)
    * Bruno Bonfils' [ZSH Configuration](http://svn.asyd.net/svn/zsh/trunk/)
+   * tj_'s [vimrc](https://gist.github.com/961af9fd9cf7245d556e)
 
 ## Thanks to...
 

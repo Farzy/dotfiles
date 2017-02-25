@@ -61,6 +61,8 @@ set incsearch
 set ignorecase
 set smartcase
 set showmatch
+" Un-hihglight search results
+map <Leader>h :nohlsearch<CR>
 
 " Tab completion
 set wildmode=list:longest,list:full
